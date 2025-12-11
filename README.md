@@ -1,5 +1,5 @@
 # ADEBEO AI COATCH – The Ultimate All-in-One Drawing & AI Art Studio (2025)
-
+https://banktraffix.github.io/adebeo-ai-coach/
 **One single HTML file. Zero installation. Works completely offline after first load.**
 
 A breathtakingly beautiful, Procreate-inspired web drawing app with **real-time AI coaching**, **4× on-device upscaling**, **vector lasso selection**, **per-object anchor points**, layers, symmetry, perspective guides, and 40+ hyper-realistic brushes — all running locally in your browser.
