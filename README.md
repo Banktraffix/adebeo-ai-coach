@@ -1,4 +1,4 @@
-# ADEBEO AI COATCH – The Ultimate All-in-One Drawing & AI Art Studio (2025)
+# ADEBEO Art COATCH – The Ultimate All-in-One Drawing & AI Art Studio (2025)
 https://banktraffix.github.io/adebeo-ai-coach/
 **One single HTML file. Zero installation. Works completely offline after first load.**
 
